@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/google___books/static/css/main.868279f6.css",
+    "main.js": "/google___books/static/js/main.cedba003.js",
+    "index.html": "/google___books/index.html",
+    "main.868279f6.css.map": "/google___books/static/css/main.868279f6.css.map",
+    "main.cedba003.js.map": "/google___books/static/js/main.cedba003.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.868279f6.css",
+    "static/js/main.cedba003.js"
+  ]
+}
